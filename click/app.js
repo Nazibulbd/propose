@@ -11,7 +11,7 @@ color_button.addEventListener("click", () => {
 setInterval(()=>{
     const randomIndex = Math.floor(Math.random() * 5);
     color.style.backgroundColor = colors[randomIndex];
-}, 500);
+}, 300);
 
 
 

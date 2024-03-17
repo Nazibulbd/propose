@@ -15,7 +15,7 @@
     justify-content: center;
     align-items: center;
     width: 1000px;
-    height: 500px;
+    height: 550px;
     background: rgb(0, 0, 0); 
     border-radius: 20px;
 }
@@ -26,8 +26,9 @@
 }
 .inner_box h1{
     color: #fff;
+    font-size: 30px;
 }
 .inner_box img{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
