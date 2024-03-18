@@ -14,10 +14,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 500px;
-    height: 550px;
+    width: 400px;
+    height: 450px;
     background: rgb(0, 0, 0); 
     border-radius: 20px;
+    margin-bottom: 20px;
 }
 .inner_box #btn{
     padding: 10px 13px;
